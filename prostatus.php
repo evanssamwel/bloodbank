@@ -65,7 +65,7 @@ include 'config.php';
  <center>
  	<br>
  	<br>
- 	 <h3 style="color:black;font-size: 20px">Copyright@2021 Blood Blood Management System</h3>
+ 	 <h3 style="color:black;font-size: 20px">Copyright Blood Blood Management System</h3>
                 <a href="profile.php"style="color:black;font-size: 20px">Back to home</a>
                 <br>
                 <br>

@@ -287,17 +287,7 @@ H2{
   
 <div id="footer" >
 <div style="float:left" STYLE="MARGIN-BOTTOM:20PX">
-<p align='left' style="font-family='comic sans ms';color:#eeeeee;">
-THAPAR UNIVERSITY,PATIALA<BR>
-ONLINE BLOOD BANK MANAGEMENT SYSTEM
-</p>
-</div>
-<p align='right' style="font-family='comic sans ms';color:#eeeeee;">
-FOR FURTHER DETAILS<BR>
-CONTACT: KARTIK GOGIA<br>
-Email: kartikgogia42@gmail.com<br>
-Phone Number:8591428292
-<p>
+
 </div>
 </div>
 </body>
